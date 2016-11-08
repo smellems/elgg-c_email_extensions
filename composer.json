@@ -1,5 +1,5 @@
 {
-    "name": "smellems/c_email_extentions",
+    "name": "smellems/c_email_extensions",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": ">=1.0.8"
